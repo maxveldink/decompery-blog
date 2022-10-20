@@ -1,3 +1,9 @@
 <footer>
-  Contact me at <a href="mailto:{{ metadata.email }}">{{ metadata.email }}</a>
+  <div style="margin-bottom: 1rem;">
+    <a href="mailto:{{ metadata.email }}">{{ metadata.email }}</a> | Work with me through <a href="https://audaciousaardvark.com">Audacious Aardvark</a>
+  </div>
+  <div>
+    Made with 💙 in Central Florida
+    <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy Me a Coffee', '#d64045', 'W7W563B5T');kofiwidget2.draw();</script>
+  </div>
 </footer>
