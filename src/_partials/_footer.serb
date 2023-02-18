@@ -1,6 +1,6 @@
 <footer>
   <div style="margin-bottom: 1rem;">
-    <a href="mailto:{{ metadata.email }}">{{ metadata.email }}</a> | Work with me through <a href="https://audaciousaardvark.com">Audacious Aardvark</a>
+    <a href="mailto:{{ metadata.email }}">{{ metadata.email }}</a>
   </div>
   <div>
     Made with 💙 in Central Florida
